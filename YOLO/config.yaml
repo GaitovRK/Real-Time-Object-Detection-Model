@@ -1,0 +1,6 @@
+path: '/Users/rashid/Desktop/SWE Fall 2024/SWE 583 Computer Vision/SWE583-Object-Detection/Dataset/images'
+train: 'train'
+val: 'val'
+
+names: 
+  0: 'person'

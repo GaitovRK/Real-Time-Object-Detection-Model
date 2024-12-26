@@ -1,0 +1,7 @@
+path: '/content'
+train: '/person'
+val: images/val
+
+#Classes
+names:
+  0: person
